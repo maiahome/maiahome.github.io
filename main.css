@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.bannermain{
+	background-image: url("nen.PNG");
+	height: 500px;
+	background-size: cover;
+}
+@font-face{
+	
+src: url("SVN-Lobster.ttf");
+	font-family: lobster;
+
+}	
+.menu{
+	margin-top: 50px;
+}
+.bestseller h1{
+	font-family:Lobster;
+	font-size: 100;
+	margin-bottom: 30px;
+	margin-top: 70px;
+}
+.bestseller h3{
+	font-family: Dongle;
+}
+
+.best h5{
+	font-family: Dongle;
+	font-size: 40px;
+	color: black;
+}
+.best p{
+	font-family: Dongle;
+	font-size: 20px;
+}
+
+.best a{
+	color:#BD3C48;
+}
+.best{
+	margin-top: 50px;
+}
+.khung {
+	background: transparent;
+	border: none;
+	padding: 5px 10px;
+	border: 1.5px solid #bd3c48;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+.hinhanh
+{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.text{
+	margin-top: 200px;
+	text-align: center;
+}
+.text h1{
+	font-family: Lobster;
+	text-align: center;
+}
+.text p{
+	font-family:Dongle;
+	text-align: justify;
+	font-size: 25px;
+
+	}
+.khung{
+	background-color: #BD3C48;
+    font-size: 20px;
+	color: white;
+	padding: 7px, 15px;
+	border: 5px;
+	font-family: Dongle;
+}
+.formm{
+	margin-top: 50px;
+	background-image: url("form.PNG");
+	height: 300px;
+}
+.form{
+	margin-top: 20px;
+	opacity: 70%;
+	
+}
+.inside{
+	padding-top: 40px;
+}
+.chan{
+	background-color:   black;
+	
+}
+.footer{
+	padding-top: 70px;
+}
+.footer p,i {
+	color: white;
+	padding: 8px
+}
+.ft1 a{
+	padding: 15px;
+}
+.footer-list{
+	padding-top: 70px;
+}
+.footerlist ul{
+	list-style: none;
+	
+}
+.ftlist ul{
+	list-style: none;
+	
+}
+.ftlist2 ul{
+	list-style: none;
+	
+}
+.footer-list li a ,h5{
+	color: white;
+}
+.ftlist li, a, h5{
+	color: white;
+	
+}
+.ftlist2 li, a, h5{
+	color: white;
+}
+.the{
+	padding: 100px 550px;
+}
+#button{
+	padding-top: 30px;
+	background-color: #BD3C48;
+	color:white;
+	padding: 7px 15px;
+	border-radius: 13px;
+	
+}
